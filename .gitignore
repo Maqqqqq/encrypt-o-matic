@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# Local runtime state
+encryptomatic_config.json
+encryptomatic_timers.json
+
+# Generated artifacts / test data
+*.encryptomatic_backup
+sample*.bin
+deny_test.bin
+test.txt
+
+# OS noise
+System Volume Information/
