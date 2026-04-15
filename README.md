@@ -7,6 +7,9 @@ Simple CLI tool to encrypt and decrypt files with:
 - Password protection (`scrypt`)
 - Timer-based restore from backup
 
+## Author
+- Markus Stamm
+
 ## Install
 
 ```bash
