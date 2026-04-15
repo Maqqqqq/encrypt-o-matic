@@ -10,6 +10,10 @@ Simple CLI tool to encrypt and decrypt files with:
 ## Author
 - Markus Stamm
 
+## Educational Use Only
+
+This project is for education and defensive file-protection learning only. Do not use it to deny access to other people's files or systems.
+
 ## Install
 
 ```bash
